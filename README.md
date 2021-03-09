@@ -6,6 +6,9 @@ Scripts for change X screen resolution (use for chenge resolution on Acer Aspire
 - set_1152x800  
 - set_1152x864
 
+File for aliase some commands
+- .bash_aliases
+
 
 ### python3
 - AutoConnectVPN.py (auto receconnecting to VPN when it lossed) (Win)
